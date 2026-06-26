@@ -2,23 +2,28 @@ class Solution {
 public:
     int countMajoritySubarrays(vector<int>& nums, int target) {
         int n = nums.size();
-        int countSubArray = 0;
+        unordered_map<int, int> mp;// cumSum | count
+        mp[0] = 1;
 
-        for(int i = 0; i<n; ++i){
-            //reseting count for each new starting point
-            int count_target = 0;
-            for(int j = i; j<n; ++j){
-                //increase count_target if we hit nums[j] == target
-                if(nums[j] == target){
-                    count_target++;
-                }
+        int cumSum = 0;
+        long long count_subarray = 0;
+        long long validLeftPoints = 0;
 
-                int subarray_length = j - i + 1;
-
-                if(2 * count_target > subarray_length) countSubArray++;
+        for(int j = 0; j<n; ++j){
+            if(nums[j] == target){
+                validLeftPoints += mp[cumSum];
+                cumSum++;
             }
+            else{
+                cumSum--;
+                validLeftPoints -= mp[cumSum];
+            }
+
+            mp[cumSum]++;
+            count_subarray += validLeftPoints;
         }
 
-        return countSubArray;      
+        
+        return count_subarray;      
     }
 };
