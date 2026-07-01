@@ -14,7 +14,7 @@ public:
 
         string ans = "";
 
-        // taking to 2 characters from heap to prevent adjancency problem properly
+        // taking 2 characters from heap to prevent adjancency problem properly
         while(pq.size() >= 2){
             auto [freq1, ch1] = pq.top(); pq.pop();
             auto [freq2, ch2] = pq.top(); pq.pop();
