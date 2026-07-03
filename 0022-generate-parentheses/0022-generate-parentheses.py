@@ -6,7 +6,7 @@ class Solution:
         ## then close these ))))....
         ## by using backtracking
 
-        def backtrack(curr_str, open_count, close_count):
+        def backtrack(curr_str: str, open_count: int, close_count: int) -> None:
             if len(curr_str) == 2 * n:
                 result.append(curr_str)
                 return
