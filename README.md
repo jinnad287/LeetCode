@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/jinnad287/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jinnad287/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1288-remove-covered-intervals](https://github.com/jinnad287/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jinnad287/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jinnad287/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -124,6 +125,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jinnad287/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jinnad287/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jinnad287/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jinnad287/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
