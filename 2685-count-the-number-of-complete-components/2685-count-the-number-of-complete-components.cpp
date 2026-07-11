@@ -41,8 +41,8 @@ public:
                     }
                 }
 
-                // Verify if the component is complete
-                // A complete graph has sum of degrees == V * (V - 1)
+                // Verify if the component is complete --> HandShaking Theorem
+                // sum of degree of all Vertices = 2 * Emax
                 if(degree_sum == vertex * (vertex - 1)){
                         complete_components++;
                 }
