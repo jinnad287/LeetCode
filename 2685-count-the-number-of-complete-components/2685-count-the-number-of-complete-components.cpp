@@ -42,7 +42,7 @@ public:
                 }
 
                 // Verify if the component is complete --> HandShaking Theorem
-                // sum of degree of all Vertices = 2 * Emax
+                // sum of degree of all vertices = 2 * Emax
                 if(degree_sum == vertex * (vertex - 1)){
                         complete_components++;
                 }
