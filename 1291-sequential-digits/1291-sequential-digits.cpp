@@ -1,16 +1,38 @@
 class Solution {
 public:
     vector<int> sequentialDigits(int low, int high) {
-        vector<int> nums = {12, 23, 34, 45, 56, 67, 78, 89, 123, 234, 345, 456, 567, 678, 789, 1234, 2345, 3456, 4567, 5678, 6789, 12345, 23456, 34567, 45678, 56789, 123456, 234567, 345678, 456789, 1234567, 2345678, 3456789, 12345678, 23456789, 123456789
-        };
+        string s = "123456789";
+        int n = s.size();
+
+        int nd_low= 0; // number_of_digits_in_low 
+        int temp = low;
+        while(temp > 0){
+            int d = temp % 10;
+            nd_low++;
+            temp /= 10;
+        }
+
+        int nd_high = 0; //number_of_digits_in_high
+        temp = high;
+        while(temp > 0){
+            int d = temp % 10;
+            nd_high++;
+            temp /= 10;
+        }
 
         vector<int> ans;
-        for(int& num : nums){
-            if(num > high) break;
-            if(num >= low && num <= high) ans.push_back(num);
+
+        for(int len = nd_low; len <= nd_high; ++len){
+            for(int fd = 0; fd <= n-len; ++fd){
+                int num = stoi(s.substr(fd, len));
+
+                if(num >= low && num <= high){
+                    ans.push_back(num);
+                }
+            } 
         }
 
         return ans;
-        
+  
     }
 };
