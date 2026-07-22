@@ -13,13 +13,13 @@ class Solution {
 public:
     int ans = 0;
 
-    int dfs(TreeNode* root) {
+    int dfs(TreeNode* root){
         if(!root) return INT_MIN;
 
-        int leftMax = dfs(root->left);
-        int rightMax = dfs(root->right);
+        int leftmax = dfs(root->left);
+        int rightmax = dfs(root->right);
 
-        int mx = max(root->val, max(leftMax, rightMax));
+        int mx = max({root->val, leftmax, rightmax});
 
         if(root->val == mx) ans++;
 
