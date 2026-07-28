@@ -7,34 +7,21 @@ public:
         }
 
         string str1 = "";
-        string str2 = "";
         string middle = "";
-        for(int i = 0; i<26; ++i){
-            //even
-            if(freq[i]%2 == 0){
-                int x = freq[i] / 2;
-                char ch = 'a' + i;
-                string padding = "";
-                for(int j = 1; j <= x; ++j){
-                    padding += ch;
-                }
-
-                str1 = str1 + padding;
-                str2 = padding + str2;
-            }
-            else{// odd
-                int x = freq[i] / 2;
-                char ch = 'a' + i;
-                string padding = "";
-                for(int j = 1; j <= x; ++j){
-                    padding += ch;
-                }
-
-                str1 = str1 + padding;
-                str2 = padding + str2;
+        for(int i = 0; i < 26; ++i){
+            if(freq[i] == 0) continue;
+            
+            char ch = 'a' + i;
+            // odd --> must be in middle inorder to be a palindrome
+            if(freq[i] % 2 != 0){
                 middle = ch;
             }
+            
+            str1 += string(freq[i] / 2, ch);
         }
+
+        string str2 = str1;
+        reverse(str2.begin(), str2.end());
 
         return str1 + middle + str2;
         
