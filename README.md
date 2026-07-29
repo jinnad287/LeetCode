@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jinnad287/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jinnad287/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jinnad287/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0875-koko-eating-bananas](https://github.com/jinnad287/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/jinnad287/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/jinnad287/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jinnad287/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jinnad287/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/jinnad287/LeetCode/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
