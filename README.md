@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jinnad287/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jinnad287/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jinnad287/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/jinnad287/LeetCode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/jinnad287/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/jinnad287/LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/jinnad287/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jinnad287/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0735-asteroid-collision](https://github.com/jinnad287/LeetCode/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jinnad287/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Union-Find
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/jinnad287/LeetCode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/jinnad287/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jinnad287/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
