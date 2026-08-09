@@ -1,9 +1,8 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        // length of longest possible subarray of exactly two different elements
+        // ans = length of longest possible subarray of exactly two different elements
         int l = 0;
-        int r = 0;
         int ans = 0;
 
         unordered_map<int, int> mp;
@@ -19,7 +18,7 @@ public:
                 if(mp[fruits[l]] == 0){
                     mp.erase(fruits[l]);
                 }
-                
+
                 l++;
             }
 
