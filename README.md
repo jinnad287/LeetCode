@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/jinnad287/LeetCode/tree/master/0036-valid-sudoku) |
 | [0767-reorganize-string](https://github.com/jinnad287/LeetCode/tree/master/0767-reorganize-string) |
+| [0904-fruit-into-baskets](https://github.com/jinnad287/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/jinnad287/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/jinnad287/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jinnad287/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/jinnad287/LeetCode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/jinnad287/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/jinnad287/LeetCode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/jinnad287/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1260-shift-2d-grid](https://github.com/jinnad287/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/jinnad287/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jinnad287/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/jinnad287/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jinnad287/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
