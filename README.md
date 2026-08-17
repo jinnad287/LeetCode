@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/jinnad287/LeetCode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/jinnad287/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0064-minimum-path-sum](https://github.com/jinnad287/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/jinnad287/LeetCode/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jinnad287/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/jinnad287/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/jinnad287/LeetCode/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/jinnad287/LeetCode/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/jinnad287/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jinnad287/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jinnad287/LeetCode/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/jinnad287/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/jinnad287/LeetCode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/jinnad287/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/jinnad287/LeetCode/tree/master/0877-stone-game) |
