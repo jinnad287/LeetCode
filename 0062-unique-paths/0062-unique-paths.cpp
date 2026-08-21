@@ -1,14 +1,18 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
-        vector<int> dp(n, 1);
+        int total_steps = m + n - 2;
 
-        for(int i = 1; i < m; i++){
-            for(int j = 1; j < n; j++){
-                dp[j] = dp[j] + dp[j - 1];
-            }
+        int k = min(m-1, n-1);
+        // for unique paths, from m+n-2 totals steps choose m-1 or n-1 should be down or right
+        // for optimization take k = min(m-1, n-1)
+        // ans = (m+n-2)C(k)
+
+        long long ans = 1;
+        for(int i = 1; i <= k; i++){
+            ans = ans * (total_steps - k + i) / i;
         }
         
-        return dp[n - 1];
+        return (int)ans;
     }
 };
