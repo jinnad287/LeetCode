@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/jinnad287/LeetCode/tree/master/0036-valid-sudoku) |
+| [0424-longest-repeating-character-replacement](https://github.com/jinnad287/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0767-reorganize-string](https://github.com/jinnad287/LeetCode/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/jinnad287/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/jinnad287/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jinnad287/LeetCode/tree/master/0022-generate-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/jinnad287/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0767-reorganize-string](https://github.com/jinnad287/LeetCode/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jinnad287/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/jinnad287/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/jinnad287/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/jinnad287/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/jinnad287/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jinnad287/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
