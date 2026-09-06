@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jinnad287/LeetCode/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/jinnad287/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/jinnad287/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0537-complex-number-multiplication](https://github.com/jinnad287/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0767-reorganize-string](https://github.com/jinnad287/LeetCode/tree/master/0767-reorganize-string) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jinnad287/LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/jinnad287/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/jinnad287/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/jinnad287/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/jinnad287/LeetCode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/jinnad287/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/jinnad287/LeetCode/tree/master/0877-stone-game) |
