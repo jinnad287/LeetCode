@@ -1,45 +1,30 @@
 class Solution {
-    int n, m;
-    vector<vector<int>> memo;
-
-    // 'i' iterates over 's', 'j' iterates over 't'
-    int solve(int i, int j, const string& s, const string& t){
-        // Base cases
-
-        if(j == m){// success fully matches all chars
-            return 1;
-        }
-        if(i == n){
-            return 0;
-        }
-
-        if (memo[i][j] != -1) {
-            return memo[i][j];
-        }
-
-        int result = 0;
-
-        if(s[i] == t[j]){
-            // if match, the we have 2 option:
-            // 1. take
-            // 2. skip it
-            result = solve(i + 1, j + 1, s, t) + solve(i + 1, j, s, t);
-        }
-        else {
-            // don't match
-            result = solve(i + 1, j, s, t);
-        }
-
-        return memo[i][j] = result;
-    }
-
 public:
     int numDistinct(string s, string t) {
-        n = s.size();
-        m = t.size();
-        memo.assign(n, vector<int>(m, -1));
+        int n = s.size();
+        int m = t.size();
+        vector<vector<unsigned int>> dp(n+1, vector<unsigned int>(m+1, 0));
 
-        return solve(0, 0, s, t);
+        // if t is empty then there is always 1 way to match
+        for(int i = 0; i<=n; ++i){
+            dp[i][0] = 1;
+        }
+
+        for(int i = 1; i<=n; ++i){
+            for(int j = 1; j<=m; ++j){
+                if(t[j-1] == s[i-1]){
+                    // 2 options : take + skip
+                    dp[i][j] = dp[i-1][j-1] + dp[i-1][j];
+                    
+                }
+                else{
+                    // no match, skip
+                    dp[i][j] = dp[i-1][j];
+                }
+            }
+        }
+
+        return dp[n][m];
         
     }
 };
