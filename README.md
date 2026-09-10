@@ -216,15 +216,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/jinnad287/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jinnad287/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/jinnad287/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jinnad287/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/jinnad287/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/jinnad287/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jinnad287/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
 |  |
 | ------- |
