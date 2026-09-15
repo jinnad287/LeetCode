@@ -18,6 +18,7 @@ public:
             for(int i = 1; i<it.second.second.size(); ++i){
                 if(it.second.second[i] - it.second.second[i-1] != d){
                     isSpecial = false;
+                    break;
                 }
             }
 
