@@ -27,8 +27,10 @@ public:
             closestY = yCenter;
         }
 
+        int dx = xCenter - closestX;
+        int dy = yCenter - closestY;
 
-        return hypot(xCenter - closestX, yCenter - closestY)  <= radius;
+        return dx * dx + dy * dy <= radius * radius;
 
     }
 };
