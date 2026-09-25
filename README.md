@@ -192,12 +192,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/jinnad287/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/jinnad287/LeetCode/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/jinnad287/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/jinnad287/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jinnad287/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/jinnad287/LeetCode/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/jinnad287/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/jinnad287/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jinnad287/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/jinnad287/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/jinnad287/LeetCode/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/jinnad287/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jinnad287/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/jinnad287/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -374,4 +377,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/jinnad287/LeetCode/tree/master/0051-n-queens) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/jinnad287/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/jinnad287/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/jinnad287/LeetCode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
