@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/jinnad287/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/jinnad287/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/jinnad287/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/jinnad287/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/jinnad287/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/jinnad287/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/jinnad287/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/jinnad287/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jinnad287/LeetCode/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/jinnad287/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [0994-rotting-oranges](https://github.com/jinnad287/LeetCode/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/jinnad287/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jinnad287/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/jinnad287/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/jinnad287/LeetCode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/jinnad287/LeetCode/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/jinnad287/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/jinnad287/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jinnad287/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
