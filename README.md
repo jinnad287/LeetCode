@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/jinnad287/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jinnad287/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jinnad287/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/jinnad287/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/jinnad287/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jinnad287/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jinnad287/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/jinnad287/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Array
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/jinnad287/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/jinnad287/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/jinnad287/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/jinnad287/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/jinnad287/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/jinnad287/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jinnad287/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/jinnad287/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/jinnad287/LeetCode/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jinnad287/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jinnad287/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/jinnad287/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -333,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jinnad287/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/jinnad287/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jinnad287/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/jinnad287/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -409,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jinnad287/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jinnad287/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jinnad287/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/jinnad287/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
