@@ -1,10 +1,10 @@
 class Solution {
 public:
-    int scoreOfParentheses(std::string s) {
+    int scoreOfParentheses(string s) {
         // idea: replace () --> A and (AAA.. N times) = AAAAAA... 2N times
         // then return the size of s
 
-        while(s.find('(') != std::string::npos){
+        while(s.find('(') != string::npos){
             
             // find the FIRST closing parenthesis
             int right = s.find(')');
