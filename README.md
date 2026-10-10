@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/jinnad287/LeetCode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jinnad287/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0292-nim-game](https://github.com/jinnad287/LeetCode/tree/master/0292-nim-game) |
 | [0537-complex-number-multiplication](https://github.com/jinnad287/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jinnad287/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/jinnad287/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/jinnad287/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/jinnad287/LeetCode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/jinnad287/LeetCode/tree/master/1927-sum-game) |
 ## Combinatorics
@@ -439,4 +441,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/jinnad287/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jinnad287/LeetCode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jinnad287/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jinnad287/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jinnad287/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
